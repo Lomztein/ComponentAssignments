@@ -26,3 +26,13 @@ hs_err_pid*
 /DictionaryDemo/DictionaryService/target/
 /DictionaryDemo/ExtendedDictionary/target/
 /DictionaryDemo/GeneralDictionary/target/
+/NetBeansApplications/nbproject/private/
+/NetBeansApplications/build/
+/NetBeansApplications/TestModule/build/
+/NetBeansApplications/TestModule/nbproject/private/
+/NetBeansApplications/Entities/build/
+/NetBeansApplications/Entities/nbproject/private/
+/NetbeansApplication/nbproject/private/
+/NetBeansApplication/nbproject/private/
+/NetBeansApplication/build/
+/NetBeansApplication/Entities/build/
