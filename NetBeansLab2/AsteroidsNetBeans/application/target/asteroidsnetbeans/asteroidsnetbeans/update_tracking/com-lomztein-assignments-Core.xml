@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.lomztein.assignments.Core">
+    <module_version install_time="1585086853975" last="true" origin="installer" specification_version="1.0">
+        <file crc="63506244" name="config/Modules/com-lomztein-assignments-Core.xml"/>
+        <file crc="4083623934" name="modules/com-lomztein-assignments-Core.jar"/>
+        <file crc="2975890568" name="modules/ext/com.lomztein.assignments.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar"/>
+        <file crc="3764980079" name="modules/ext/com.lomztein.assignments.Core/com-badlogicgames-gdx/gdx.jar"/>
+        <file crc="1146210713" name="modules/ext/com.lomztein.assignments.Core/com-badlogicgames-jlayer/jlayer.jar"/>
+        <file crc="426864957" name="modules/ext/com.lomztein.assignments.Core/net-java-jinput/jinput.jar"/>
+        <file crc="1529865491" name="modules/ext/com.lomztein.assignments.Core/net-java-jutils/jutils.jar"/>
+        <file crc="2846045197" name="modules/ext/com.lomztein.assignments.Core/org-jcraft/jorbis.jar"/>
+        <file crc="4257286244" name="modules/ext/com.lomztein.assignments.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-linux.jar"/>
+        <file crc="195738200" name="modules/ext/com.lomztein.assignments.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar"/>
+        <file crc="4182559041" name="modules/ext/com.lomztein.assignments.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-windows.jar"/>
+        <file crc="1131781346" name="modules/ext/com.lomztein.assignments.Core/org-lwjgl-lwjgl/lwjgl.jar"/>
+        <file crc="1311417881" name="modules/ext/com.lomztein.assignments.Core/org-lwjgl-lwjgl/lwjgl_util.jar"/>
+    </module_version>
+</module>

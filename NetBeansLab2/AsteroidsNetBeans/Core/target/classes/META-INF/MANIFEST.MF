@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: com/lomztein/assignments/core/main/Installer.c
+ lass
+OpenIDE-Module-Localizing-Bundle: com/lomztein/assignments/core/Bundle
+ .properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20200324
+OpenIDE-Module-Build-Version: 202003242154
+OpenIDE-Module: com.lomztein.assignments.Core
+OpenIDE-Module-Public-Packages: com.lomztein.assignments.core.main.*, 
+ com.lomztein.assignments.core.managers.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: com.lomztein.assignments
+OpenIDE-Module-Name: Core
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/com.lomztein.assignments.Core/com-badlogicgames-gdx/
+ gdx.jar ext/com.lomztein.assignments.Core/com-badlogicgames-gdx/gdx-b
+ ackend-lwjgl.jar ext/com.lomztein.assignments.Core/org-lwjgl-lwjgl/lw
+ jgl.jar ext/com.lomztein.assignments.Core/org-lwjgl-lwjgl/lwjgl-platf
+ orm-natives-windows.jar ext/com.lomztein.assignments.Core/org-lwjgl-l
+ wjgl/lwjgl-platform-natives-linux.jar ext/com.lomztein.assignments.Co
+ re/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar ext/com.lomztein.as
+ signments.Core/net-java-jinput/jinput.jar ext/com.lomztein.assignment
+ s.Core/net-java-jutils/jutils.jar ext/com.lomztein.assignments.Core/o
+ rg-lwjgl-lwjgl/lwjgl_util.jar ext/com.lomztein.assignments.Core/com-b
+ adlogicgames-jlayer/jlayer.jar ext/com.lomztein.assignments.Core/org-
+ jcraft/jorbis.jar
+Maven-Class-Path: com.badlogicgames.gdx:gdx:1.9.10 com.badlogicgames.g
+ dx:gdx-backend-lwjgl:1.9.10 org.lwjgl.lwjgl:lwjgl:2.9.3 org.lwjgl.lwj
+ gl:lwjgl-platform:2.9.3:natives-windows org.lwjgl.lwjgl:lwjgl-platfor
+ m:2.9.3:natives-linux org.lwjgl.lwjgl:lwjgl-platform:2.9.3:natives-os
+ x net.java.jinput:jinput:2.0.5 net.java.jutils:jutils:1.0.0 org.lwjgl
+ .lwjgl:lwjgl_util:2.9.3 com.badlogicgames.jlayer:jlayer:1.0.1-gdx org
+ .jcraft:jorbis:0.0.17
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.29.1, com.lomztein.assignments.Common > 1.0, org.openide.modu
+ les > 7.50.1, org.openide.util.ui > 9.9.1
+

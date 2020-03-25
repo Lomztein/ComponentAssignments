@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-OpenIDE-Module-Install: com/lomztein/assignments/core/main/Installer.class
-OpenIDE-Module-Localizing-Bundle: com/lomztein/assignments/core/Bundle.properties
-

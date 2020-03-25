@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/lomztein/assignments/common/Bund
+ le.properties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20200324
+OpenIDE-Module-Build-Version: 202003242154
+OpenIDE-Module: com.lomztein.assignments.Common
+OpenIDE-Module-Public-Packages: com.lomztein.assignments.common.data.*
+ , com.lomztein.assignments.common.data.entityparts.*, com.lomztein.as
+ signments.common.events.*, com.lomztein.assignments.common.serviceloa
+ ders.*, com.lomztein.assignments.common.services.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: com.lomztein.assignments
+OpenIDE-Module-Name: Common
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.29.1, org.openide.util.lookup > 8.35.1
+

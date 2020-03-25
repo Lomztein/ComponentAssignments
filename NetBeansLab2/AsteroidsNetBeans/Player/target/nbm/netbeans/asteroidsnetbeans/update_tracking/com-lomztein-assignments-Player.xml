@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.lomztein.assignments.Player">
+    <module_version install_time="1585086855396" last="true" origin="installer" specification_version="1.0">
+        <file crc="3782058447" name="config/Modules/com-lomztein-assignments-Player.xml"/>
+        <file crc="2622824433" name="modules/com-lomztein-assignments-Player.jar"/>
+    </module_version>
+</module>

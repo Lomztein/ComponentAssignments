@@ -1,0 +1,5 @@
+com\lomztein\assignments\player\PlayerControlSystem.class
+META-INF\services\com.lomztein.assignments.common.services.IEntityProcessingService
+META-INF\services\com.lomztein.assignments.common.services.IGamePluginService
+com\lomztein\assignments\player\Player.class
+com\lomztein\assignments\player\PlayerPlugin.class

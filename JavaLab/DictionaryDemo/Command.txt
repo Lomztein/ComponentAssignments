@@ -1,0 +1,1 @@
+java -cp DictionaryService\target\DictionaryService-1.0-SNAPSHOT.jar;GeneralDictionary\target\GeneralDictionary-1.0-SNAPSHOT.jar;ExtendedDictionary\target\ExtendedDictionary-1.0-SNAPSHOT.jar;Core\target\Core-1.0-SNAPSHOT.jar com.lomztein.assignments.core.Main

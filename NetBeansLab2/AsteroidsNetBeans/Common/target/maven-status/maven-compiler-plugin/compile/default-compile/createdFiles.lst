@@ -1,0 +1,13 @@
+com\lomztein\assignments\common\services\IPostEntityProcessingService.class
+com\lomztein\assignments\common\services\IEntityProcessingService.class
+com\lomztein\assignments\common\data\entityparts\PositionPart.class
+com\lomztein\assignments\common\serviceloaders\CommonServiceLoader.class
+com\lomztein\assignments\common\services\IGamePluginService.class
+com\lomztein\assignments\common\data\GameData.class
+com\lomztein\assignments\common\data\entityparts\EntityPart.class
+com\lomztein\assignments\common\events\Event.class
+com\lomztein\assignments\common\data\World.class
+com\lomztein\assignments\common\data\Entity.class
+com\lomztein\assignments\common\data\entityparts\LifePart.class
+com\lomztein\assignments\common\data\entityparts\MovingPart.class
+com\lomztein\assignments\common\data\GameKeys.class
