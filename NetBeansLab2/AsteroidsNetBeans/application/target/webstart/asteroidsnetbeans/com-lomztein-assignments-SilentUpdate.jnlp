@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>Silent Update</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>Silent Update of Application</description>
+   <description kind='short'>A service installing updates of your NetBeans Platform Application with as few as possible user's interactions.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='com-lomztein-assignments-SilentUpdate/com-lomztein-assignments-SilentUpdate.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

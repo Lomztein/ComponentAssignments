@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.lomztein.assignments.Common">
-    <module_version install_time="1585086854147" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1585280497757" last="true" origin="installer" specification_version="1.0">
         <file crc="3415675061" name="config/Modules/com-lomztein-assignments-Common.xml"/>
-        <file crc="3627286355" name="modules/com-lomztein-assignments-Common.jar"/>
+        <file crc="703918310" name="modules/com-lomztein-assignments-Common.jar"/>
     </module_version>
 </module>

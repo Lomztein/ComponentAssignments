@@ -3,8 +3,8 @@ OpenIDE-Module-Localizing-Bundle: com/lomztein/assignments/asteroidsne
  tbeans/branding/Bundle.properties
 AutoUpdate-Essential-Module: true
 OpenIDE-Module-Specification-Version: 1.0
-OpenIDE-Module-Implementation-Version: 1.0-20200324
-OpenIDE-Module-Build-Version: 202003242154
+OpenIDE-Module-Implementation-Version: 1.0-20200327
+OpenIDE-Module-Build-Version: 202003270341
 OpenIDE-Module: com.lomztein.assignments.AsteroidsNetBeans.branding
 OpenIDE-Module-Public-Packages: -
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1

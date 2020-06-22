@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>Lookup API</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>Generic service discovery mechanism used throughout NetBeans.</description>
+   <description kind='short'>Many APIs in NetBeans use Lookup as an observable collection of services. The default lookup is the global service registry; selections, project capabilities, and more are also modeled as Lookup instances.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-openide-util-lookup/org-openide-util-lookup.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

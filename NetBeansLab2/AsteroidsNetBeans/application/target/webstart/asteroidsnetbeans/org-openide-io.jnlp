@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>I/O APIs - Swing</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>Open APIs relating to displaying output.</description>
+   <description kind='short'>Contains classes from org.openide.windows.* relating to creating output tabs, displaying output, and hyperlinking it.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-openide-io/org-openide-io.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

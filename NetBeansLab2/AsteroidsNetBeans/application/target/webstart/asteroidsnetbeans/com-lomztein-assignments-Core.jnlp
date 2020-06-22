@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>com.lomztein.assignments.Core</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>com.lomztein.assignments.Core</description>
+   <description kind='short'>com.lomztein.assignments.Core</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='com-lomztein-assignments-Core/com-lomztein-assignments-Core.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-com-badlogicgames-gdx-gdx.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-com-badlogicgames-gdx-gdx-backend-lwjgl.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-org-lwjgl-lwjgl-lwjgl.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-org-lwjgl-lwjgl-lwjgl-platform-natives-windows.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-org-lwjgl-lwjgl-lwjgl-platform-natives-linux.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-org-lwjgl-lwjgl-lwjgl-platform-natives-osx.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-net-java-jinput-jinput.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-net-java-jutils-jutils.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-org-lwjgl-lwjgl-lwjgl_util.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-com-badlogicgames-jlayer-jlayer.jar'/>
+    <jar href='com-lomztein-assignments-Core/ext-com.lomztein.assignments.Core-org-jcraft-jorbis.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

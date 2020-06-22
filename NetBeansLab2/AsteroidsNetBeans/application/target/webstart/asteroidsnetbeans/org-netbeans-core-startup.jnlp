@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>Startup</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>Loads and enables modules.</description>
+   <description kind='short'>This module provides the central additional functionality to Bootstrap to locate and enable the right modules.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-netbeans-core-startup/core.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

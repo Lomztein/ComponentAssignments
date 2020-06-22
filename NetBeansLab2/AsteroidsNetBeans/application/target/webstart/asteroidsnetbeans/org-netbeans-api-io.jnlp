@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>I/O API and SPI</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>APIs and SPIs related to displaying output.</description>
+   <description kind='short'>API classes for creating output panes (e.g. tabs in output window) and for writing data into them.
+SPI for custom implementations of output window.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-netbeans-api-io/org-netbeans-api-io.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

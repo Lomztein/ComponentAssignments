@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.lomztein.assignments.SilentUpdate">
+    <module_version install_time="1585280497100" last="true" origin="installer" specification_version="1.0">
+        <file crc="2597935198" name="config/Modules/com-lomztein-assignments-SilentUpdate.xml"/>
+        <file crc="271052152" name="modules/com-lomztein-assignments-SilentUpdate.jar"/>
+    </module_version>
+</module>

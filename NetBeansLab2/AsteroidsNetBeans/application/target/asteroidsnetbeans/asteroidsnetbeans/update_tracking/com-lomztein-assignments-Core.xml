@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.lomztein.assignments.Core">
-    <module_version install_time="1585086853975" last="true" origin="installer" specification_version="1.0">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="com.lomztein.assignments.Core">
+    <module_version install_time="1585280711516" last="true" origin="Sample Update Center" specification_version="1.0">
         <file crc="63506244" name="config/Modules/com-lomztein-assignments-Core.xml"/>
-        <file crc="4083623934" name="modules/com-lomztein-assignments-Core.jar"/>
+        <file crc="2754067872" name="modules/com-lomztein-assignments-Core.jar"/>
         <file crc="2975890568" name="modules/ext/com.lomztein.assignments.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar"/>
         <file crc="3764980079" name="modules/ext/com.lomztein.assignments.Core/com-badlogicgames-gdx/gdx.jar"/>
         <file crc="1146210713" name="modules/ext/com.lomztein.assignments.Core/com-badlogicgames-jlayer/jlayer.jar"/>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>Intent API</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>Performing intended operations by suitable handlers</description>
+   <description kind='short'>API for invoking intended operations (described by suitable type of object, e.g. URI) by some of registered handlers.
+SPI for handlers of possible intended operations.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-netbeans-api-intent/org-netbeans-api-intent.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

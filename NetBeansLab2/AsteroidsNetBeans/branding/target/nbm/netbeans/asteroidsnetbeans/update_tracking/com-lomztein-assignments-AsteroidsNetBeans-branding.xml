@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.lomztein.assignments.AsteroidsNetBeans.branding">
-    <module_version install_time="1585086847525" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1585280465945" last="true" origin="installer" specification_version="1.0">
         <file crc="1294909773" name="config/Modules/com-lomztein-assignments-AsteroidsNetBeans-branding.xml"/>
-        <file crc="1963069659" name="core/locale/core_asteroidsnetbeans.jar"/>
-        <file crc="1363505296" name="modules/com-lomztein-assignments-AsteroidsNetBeans-branding.jar"/>
-        <file crc="536420691" name="modules/locale/org-netbeans-core-windows_asteroidsnetbeans.jar"/>
-        <file crc="1865767157" name="modules/locale/org-netbeans-core_asteroidsnetbeans.jar"/>
+        <file crc="2264985669" name="core/locale/core_asteroidsnetbeans.jar"/>
+        <file crc="2199211849" name="modules/com-lomztein-assignments-AsteroidsNetBeans-branding.jar"/>
+        <file crc="1798182134" name="modules/locale/org-netbeans-core-windows_asteroidsnetbeans.jar"/>
+        <file crc="2880272393" name="modules/locale/org-netbeans-core_asteroidsnetbeans.jar"/>
     </module_version>
 </module>

@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 OpenIDE-Module-Localizing-Bundle: com/lomztein/assignments/common/Bund
  le.properties
 OpenIDE-Module-Specification-Version: 1.0
-OpenIDE-Module-Implementation-Version: 1.0-20200324
-OpenIDE-Module-Build-Version: 202003242154
+OpenIDE-Module-Implementation-Version: 1.0-20200327
+OpenIDE-Module-Build-Version: 202003270341
 OpenIDE-Module: com.lomztein.assignments.Common
 OpenIDE-Module-Public-Packages: com.lomztein.assignments.common.data.*
  , com.lomztein.assignments.common.data.entityparts.*, com.lomztein.as

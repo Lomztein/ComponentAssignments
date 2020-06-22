@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE jnlp PUBLIC "-//Sun Microsystems, Inc//DTD JNLP Descriptor 6.0//EN" "http://java.sun.com/dtd/JNLP-6.0.dtd">
+<jnlp spec='1.0+' codebase='file:/H:/Dokumenter/GitHub/ComponentAssignments/NetBeansLab2/AsteroidsNetBeans/application/target/webstart/asteroidsnetbeans/'>
+  <information>
+   <title>Common Annotations</title>
+   <vendor>NetBeans</vendor>
+   <description kind='one-line'>Common annotations, namely for defect detection.</description>
+   <description kind='short'>Contains annotations useful for static analysis, such as a @SuppressWarnings usable by FindBugs.</description>
+  </information>
+<security><all-permissions/></security>
+  <resources>
+    <jar href='org-netbeans-api-annotations-common/org-netbeans-api-annotations-common.jar'/>
+  </resources>
+  <component-desc/>
+</jnlp>

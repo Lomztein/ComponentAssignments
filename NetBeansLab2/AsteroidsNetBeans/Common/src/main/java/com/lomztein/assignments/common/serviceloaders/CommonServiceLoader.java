@@ -25,12 +25,12 @@ public class CommonServiceLoader {
 
     private final Lookup lookup = Lookup.getDefault();
 
-    private static <T> List<T> toList(Collection<T> collection) {
+    private static <T> List<T> toList(Collection collection) {
 
         List<T> list = new ArrayList<T>();
 
-        for (T element : collection) {
-            list.add(element);
+        for (Object element : collection) {
+            list.add((T)element);
         }
 
         return list;
